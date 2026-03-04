@@ -5,7 +5,9 @@ MERN Stack Developer | Data Analyst | Software Developer & Trainer
 📧 your-email@example.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/devi-swetha-e-2707193a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 🔗 GitHub: https://github.com/deviswethae
+
 🔗 Resume: https://drive.google.com/file/d/1ncJjA8oEuFKcerZkuB-JKWRULp_tg8sd/view?usp=sharing
 
 ## 🚀 About Me
