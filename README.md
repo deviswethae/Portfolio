@@ -2,7 +2,8 @@
 MERN Stack Developer | Data Analyst | Software Developer & Trainer
 
 📍 Coimbatore, Tamil Nadu
-📧 your-email@example.com
+
+📧 deviswethae@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/devi-swetha-e-2707193a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
