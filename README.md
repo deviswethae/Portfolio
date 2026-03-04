@@ -23,26 +23,35 @@ I am currently focused on building AI-powered applications and enhancing my expe
 ## 💻 Frontend
 
 HTML5
+
 CSS3
+
 JavaScript (ES6+)
+
 React.js
 
 ## ⚙️ Backend
 
 Node.js
+
 Express.js
 
 ## 🗄️ Database
 
 MongoDB
+
 MySQL
 
 ## 📊 Data Analytics & BI
 
 SQL
+
 Python (Pandas, NumPy, Matplotlib)
+
 Power BI
+
 Tableau
+
 Excel
 
 
